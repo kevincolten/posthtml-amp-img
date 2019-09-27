@@ -1,12 +1,12 @@
 {
-  "name": "posthtml-plugin",
-  "description": "PostHTML plugin description",
+  "name": "posthtml-amp-img",
+  "description": "Convert img tags to amp-img",
   "version": "1.0.0",
-  "author": "PostHTML",
+  "author": "Kevin Colten",
   "ava": {
     "verbose": "true"
   },
-  "bugs": "https://github.com/posthtml/posthtml-plugin-boilerplate/issues",
+  "bugs": "https://github.com/kevincolten/posthtml-amp-imgissues",
   "dependencies": {
     "posthtml": "^0.11.4"
   },
@@ -24,7 +24,7 @@
   "engines": {
     "node": ">=8"
   },
-  "homepage": "https://github.com/posthtml/posthtml-plugin-boilerplate",
+  "homepage": "https://github.com/kevincolten/posthtml-amp-img",
   "keywords": [
     "html",
     "posthtml",
